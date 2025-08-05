@@ -46,17 +46,19 @@ Uygulama, hedef dili öğrenme süresini en aza indirirken, öğrenme sürecini 
 * **Kelime Listesi PDF:** Uygulamada öğrendiğiniz kelime listelerini PDF formatında dışa aktararak, internet bağlantısı olmadan veya basılı materyal olarak çalışmaya devam edin.
 
 ## 📂 Proje Dosya Yapısı 
-/lingoworld
-├── assets
-│   ├── fonts
-│   ├── images
-│   └── svgs
-├── lib
-│   ├── screens
+
+```plaintext
+lingoworld/
+├── assets/
+│   ├── fonts/
+│   ├── images/
+│   └── svgs/
+├── lib/
+│   ├── screens/
 │   │   └── word_cards_screen.dart
 │   ├── main.dart
 │   └── ...
-├── test
+├── test/
 ├── pubspec.yaml
 ├── README.md
 └── ...
