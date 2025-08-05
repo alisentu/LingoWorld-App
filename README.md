@@ -26,9 +26,9 @@ Uygulama; özellikle dil bilmenin çok önemli olduğu bu zamanlarda dil öğren
 
 ## ✨ Uygulama Özellikleri
 
-**Uygulama, hedef dili öğrenme süresini en aza indirirken, öğrenme sürecini daha eğlenceli ve etkileşimli hale getirmeyi amaçlayan zengin özellikler sunar.
+Uygulama, hedef dili öğrenme süresini en aza indirirken, öğrenme sürecini daha eğlenceli ve etkileşimli hale getirmeyi amaçlayan zengin özellikler sunar.
 
--Kelime Sınavı: Öğrendiğiniz kelimeleri pekiştirmek için tasarlanmış, pratik ve hızlı kelime testleri ile bilginizi anında ölçün.
+**Kelime Sınavı**: Öğrendiğiniz kelimeleri pekiştirmek için tasarlanmış, pratik ve hızlı kelime testleri ile bilginizi anında ölçün.
 
 -Seviye Sınavı: Dil öğrenme yolculuğunuza nereden başlayacağınızı belirlemek veya mevcut seviyenizi görmek için tasarlanmış sınavlarla kendinizi değerlendirin.
 
