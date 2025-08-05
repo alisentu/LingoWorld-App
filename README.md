@@ -11,7 +11,6 @@ Uygulama; özellikle dil bilmenin çok önemli olduğu bu zamanlarda dil öğren
 ![📱 Uygulama Figma Tasarımları ](figma.png)
 
 # 📸 Uygulama Tanıtım Videosu 
-
 [GOGLE DRİVE VİDEO](https://drive.google.com/file/d/1l3KuHPCguj8fu_iSgR-MXteyL1cOGqKH/view?usp=sharing)
 
 ### 🛠️ Kullanılan Teknolojiler
