@@ -6,5 +6,4 @@ Uygulamadaki en çok kullanılan kelimeler, kelime sınavı, seviye sınavı, ya
 
 Uygulama; özellikle dil bilmenin çok önemli olduğu bu zamanlarda dil öğrenmeye istekli herkesin öğrenmesini kolaylaştırmak, süreci daha eğlenceli ve etkileşimli hale getirmek amacıyla tasarlanmıştır. Geleneksel ezberleme yöntemlerinin aksine, LingoWorld; yapay zekâ destekli interaktif kelime kartları ve çoktan seçmeli testler sunarak kullanıcıların kelime dağarcığını kalıcı bir şekilde geliştirmesine yardımcı olur. Bu sayede, dili bir ders olarak değil, günlük yaşamın bir parçası olarak deneyimleyebilir ve öğrenme motivasyonunu sürekli yüksek tutabilirsiniz. LingoWorld, her seviyeden öğrencinin kendi hızında ilerleyebileceği, kişiselleştirilmiş bir öğrenme deneyimi sunarak dil becerilerini en verimli şekilde geliştirmesini sağlar.
 
-📱 Uygulama Figma Tasarımları 
-
+![📱 Uygulama Figma Tasarımları ](figma.png)
