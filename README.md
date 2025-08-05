@@ -10,8 +10,7 @@ Uygulama; özellikle dil bilmenin çok önemli olduğu bu zamanlarda dil öğren
 
 ![📱 Uygulama Figma Tasarımları ](figma.png)
 
-## 📸 Uygulama Tanıtım Videosu 
-[GOGLE DRİVE VİDEO](https://drive.google.com/file/d/1l3KuHPCguj8fu_iSgR-MXteyL1cOGqKH/view?usp=sharing)
+## 📸 Uygulama Tanıtım Videosu [GOGLE DRİVE VİDEO](https://drive.google.com/file/d/1l3KuHPCguj8fu_iSgR-MXteyL1cOGqKH/view?usp=sharing)
 
 ## 🛠️ Kullanılan Teknolojiler
 
@@ -24,7 +23,8 @@ Uygulama; özellikle dil bilmenin çok önemli olduğu bu zamanlarda dil öğren
 | **Metin Okuma (TTS)** | `flutter_tts` | Kelime ve örnek cümlelerin sesli olarak okunmasını sağlar. |
 | **UI/UX Bileşenleri** | `Google Fonts`, `Card`, `PageView` | Modern ve kullanıcı dostu bir arayüz oluşturmak için kullanılan Flutter widget'ları ve kütüphaneleri. |
 
-** 🎯 Proje Amacı Ve Kapsamı
+## 🎯 Proje Amacı Ve Kapsamı
+
 LingoWorld, özellikle dil bilmenin çok önemli olduğu bu zamanlarda, dil öğrenmeye istekli herkesin öğrenmesini kolaylaştırmak, süreci daha eğlenceli ve etkileşimli hale getirmek amacıyla tasarlanmıştır. Geleneksel ezberleme yöntemlerinin aksine, uygulama yapay zekâ teknolojilerini kullanarak kişiselleştirilmiş bir eğitim deneyimi sunar.
 
 ## ✨ Uygulama Özellikleri
