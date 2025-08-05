@@ -1,16 +1,7 @@
-# lingoworld
+# Lingo World 
 
-A new Flutter project.
+LingoWorld, öğrencilerin dil öğrenme süreçlerini kolaylaştırmak amacıyla geliştirilmiş bir mobil uygulamadır. BTK Hackathon Yarışması için hazırlanan bu uygulama, kullanıcının İngilizce, Almanca, Fransızca, İspanyolca, İtalyanca, Japonca, Çince, Korece ve Rusça gibi en bilinen dilleri öğrenmesini hedeflemektedir.
 
-## Getting Started
+Uygulamadaki en çok kullanılan kelimeler, kelime sınavı, seviye sınavı, yapay zekâ öğretmen, YouTube öğretici içerikler, öğretici müzikler, kelime listesi PDF gibi materyaller hedef dili öğrenme süresini en aza indirip öğrenme sürecini daha eğlenceli hale getirmeyi amaçlamaktadır.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Uygulama; özellikle dil bilmenin çok önemli olduğu bu zamanlarda dil öğrenmeye istekli herkesin öğrenmesini kolaylaştırmak, süreci daha eğlenceli ve etkileşimli hale getirmek amacıyla tasarlanmıştır. Geleneksel ezberleme yöntemlerinin aksine, LingoWorld; yapay zekâ destekli interaktif kelime kartları ve çoktan seçmeli testler sunarak kullanıcıların kelime dağarcığını kalıcı bir şekilde geliştirmesine yardımcı olur. Bu sayede, dili bir ders olarak değil, günlük yaşamın bir parçası olarak deneyimleyebilir ve öğrenme motivasyonunu sürekli yüksek tutabilirsiniz. LingoWorld, her seviyeden öğrencinin kendi hızında ilerleyebileceği, kişiselleştirilmiş bir öğrenme deneyimi sunarak dil becerilerini en verimli şekilde geliştirmesini sağlar.
