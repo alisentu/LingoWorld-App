@@ -24,19 +24,26 @@ Uygulama; özellikle dil bilmenin çok önemli olduğu bu zamanlarda dil öğren
 | **Metin Okuma (TTS)** | `flutter_tts` | Kelime ve örnek cümlelerin sesli olarak okunmasını sağlar. |
 | **UI/UX Bileşenleri** | `Google Fonts`, `Card`, `PageView` | Modern ve kullanıcı dostu bir arayüz oluşturmak için kullanılan Flutter widget'ları ve kütüphaneleri. |
 
+** 🎯 Proje Amacı Ve Kapsamı
+LingoWorld, özellikle dil bilmenin çok önemli olduğu bu zamanlarda, dil öğrenmeye istekli herkesin öğrenmesini kolaylaştırmak, süreci daha eğlenceli ve etkileşimli hale getirmek amacıyla tasarlanmıştır. Geleneksel ezberleme yöntemlerinin aksine, uygulama yapay zekâ teknolojilerini kullanarak kişiselleştirilmiş bir eğitim deneyimi sunar.
+
 ## ✨ Uygulama Özellikleri
 
 Uygulama, hedef dili öğrenme süresini en aza indirirken, öğrenme sürecini daha eğlenceli ve etkileşimli hale getirmeyi amaçlayan zengin özellikler sunar.
 
-* **Kelime Sınavı:** Öğrendiğiniz kelimeleri pekiştirmek için tasarlanmış, pratik ve hızlı kelime testleri ile bilginizi anında ölçün.
+* **Kelime Kartları:** Hedef dildeki en çok kullanılan 50 kelimenin türkçesini ve telaffuzlarını öğrenmemizi sağlar
 
--Seviye Sınavı: Dil öğrenme yolculuğunuza nereden başlayacağınızı belirlemek veya mevcut seviyenizi görmek için tasarlanmış sınavlarla kendinizi değerlendirin.
+* **Kelime Sınavı:** Öğrendiğiniz 50 kelimeyi pekiştirmek için tasarlanmış, pratik ve hızlı kelime testleri ile bilginizi anında ölçer.
 
--Yapay Zekâ Öğretmen: Google Gemini destekli yapay zekâ öğretmeninizden, dil bilgisi kuralları, kelime kullanımları ve cümle yapıları hakkında anlık destek ve açıklayıcı bilgiler alın.
+* **Seviye Sınavı:** Hedef dildeki yatkınlığını A1,A2,B1,B2,C1,C2 şeklinde seçtiğiniz seviyede sorularla ölçerek görmenizi sağlar.
 
--YouTube Öğretici İçerikler: Seçtiğiniz dile özel olarak hazırlanmış, YouTube'daki en popüler ve faydalı video içeriklerine doğrudan erişim sağlayın.
+* **Yapay Zekâ Öğretmen:** Google Gemini destekli yapay zekâ öğretmeninizden, dil bilgisi kuralları, kelime kullanımları ve cümle yapıları hakkında anlık destek ve açıklayıcı bilgiler alın.
 
--Öğretici Müzikler: Müziğin gücünü kullanarak dil öğrenin. Öğretici ve akılda kalıcı şarkılarla yeni kelimeleri ve telaffuzları daha kolay benimseyin.
+* **YouTube Öğretici İçerikler:** Seçtiğiniz dile özel olarak hazırlanmış, YouTube'daki en popüler ve faydalı video içeriklerine doğrudan erişim sağlayın.
 
--Kelime Listesi PDF: Uygulamada öğrendiğiniz kelime listelerini PDF formatında dışa aktararak, internet bağlantısı olmadan veya basılı materyal olarak çalışmaya devam edin.
+* **Öğretici Müzikler:** Müziğin gücünü kullanarak dil öğrenin. Öğretici ve akılda kalıcı şarkılarla yeni kelimeleri ve telaffuzları daha kolay benimseyin.
+
+* **Kelime Listesi PDF:** Uygulamada öğrendiğiniz kelime listelerini PDF formatında dışa aktararak, internet bağlantısı olmadan veya basılı materyal olarak çalışmaya devam edin.
+
+
 
