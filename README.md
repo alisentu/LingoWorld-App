@@ -10,7 +10,7 @@ Uygulama; özellikle dil bilmenin çok önemli olduğu bu zamanlarda dil öğren
 
 ![📱 Uygulama Figma Tasarımları ](figma.png)
 
-## 📸 Uygulama Tanıtım Videosu /n[GOGLE DRİVE VİDEO](https://drive.google.com/file/d/1l3KuHPCguj8fu_iSgR-MXteyL1cOGqKH/view?usp=sharing)
+## 📸 Uygulama Tanıtım Videosu [GOGLE DRİVE VİDEO](https://drive.google.com/file/d/1l3KuHPCguj8fu_iSgR-MXteyL1cOGqKH/view?usp=sharing)
 
 ## 🛠️ Kullanılan Teknolojiler
 
@@ -45,5 +45,21 @@ Uygulama, hedef dili öğrenme süresini en aza indirirken, öğrenme sürecini 
 
 * **Kelime Listesi PDF:** Uygulamada öğrendiğiniz kelime listelerini PDF formatında dışa aktararak, internet bağlantısı olmadan veya basılı materyal olarak çalışmaya devam edin.
 
+## 📂 Proje Dosya Yapısı 
+/lingoworld
+├── assets
+│   ├── fonts
+│   ├── images
+│   └── svgs
+├── lib
+│   ├── screens
+│   │   └── word_cards_screen.dart
+│   ├── main.dart
+│   └── ...
+├── test
+├── pubspec.yaml
+├── README.md
+└── ...
+```
 
 
