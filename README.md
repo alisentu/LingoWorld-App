@@ -14,15 +14,16 @@ Uygulama; özellikle dil bilmenin çok önemli olduğu bu zamanlarda dil öğren
 
 [GOGLE DRİVE VİDEO](https://drive.google.com/file/d/1l3KuHPCguj8fu_iSgR-MXteyL1cOGqKH/view?usp=sharing)
 
-# 🛠️ Kullanılan Teknolojiler
-Kategori	Teknoloji	Açıklama
-Geliştirme Ortamı	Flutter	Mobil uygulama arayüzü ve iş mantığı.
-UI/UX Tasarım	Figma	Uygulama arayüzlerinin görsel tasarımı ve prototiplenmesi.
-Yapay Zekâ	Google Gemini API	Seçilen dile göre dinamik kelime listeleri ve örnek cümleler oluşturur.
-Durum Yönetimi	StatefulWidget	Uygulama arayüzündeki dinamik durumları yönetmek için kullanılır.
-Yerel Depolama	Hive	Kelime listelerini ve kullanıcı ayarlarını cihazda hızlı ve güvenli bir şekilde saklar.
-Metin Okuma (TTS)	flutter_tts	Kelime ve örnek cümlelerin sesli olarak okunmasını sağlar.
-UI/UX Bileşenleri	Google Fonts, Card, PageView	Modern ve kullanıcı dostu bir arayüz oluşturmak için kullanılan Flutter widget'ları ve kütüphaneleri.
+### 🛠️ Kullanılan Teknolojiler
 
+| Kategori | Teknoloji | Açıklama |
+| :--- | :--- | :--- |
+| **Geliştirme Ortamı** | `Flutter` | Mobil uygulama arayüzü ve iş mantığı. |
+| **UI/UX Tasarım** | `Figma` | Uygulama arayüzlerinin görsel tasarımı ve prototiplenmesi. |
+| **Yapay Zekâ** | `Google Gemini API` | Seçilen dile göre dinamik kelime listeleri ve örnek cümleler oluşturur. |
+| **Durum Yönetimi** | `StatefulWidget` | Uygulama arayüzündeki dinamik durumları yönetmek için kullanılır. |
+| **Yerel Depolama** | `Hive` | Kelime listelerini ve kullanıcı ayarlarını cihazda hızlı ve güvenli bir şekilde saklar. |
+| **Metin Okuma (TTS)** | `flutter_tts` | Kelime ve örnek cümlelerin sesli olarak okunmasını sağlar. |
+| **UI/UX Bileşenleri** | `Google Fonts`, `Card`, `PageView` | Modern ve kullanıcı dostu bir arayüz oluşturmak için kullanılan Flutter widget'ları ve kütüphaneleri. |
 
 
