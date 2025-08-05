@@ -54,14 +54,34 @@ lingoworld/
 │   ├── images/
 │   └── svgs/
 ├── lib/
+│   ├── constants/
+│   │   └── app_colors.dart
+│   ├── models/
+│   │   ├── question.dart
+│   │   ├── user.dart
+│   │   └── user.g.dart
 │   ├── screens/
-│   │   └── word_cards_screen.dart
-│   ├── main.dart
-│   └── ...
+│   │   ├── ai_tutor_screen.dart
+│   │   ├── home_screen.dart
+│   │   ├── language_selection_screen.dart
+│   │   ├── login_screen.dart
+│   │   ├── main_quiz_screen.dart
+│   │   ├── pdf_vocabulary_screen.dart
+│   │   ├── quiz_level_selection_screen.dart
+│   │   ├── quiz_screen.dart
+│   │   ├── signup_screen.dart
+│   │   ├── word_cards_screen.dart
+│   │   ├── youtube_music_screen.dart
+│   │   └── youtube_screen.dart
+│   ├── services/
+│   │   ├── gemini_explain_service.dart
+│   │   ├── gemini_service.dart
+│   │   ├── language_manager.dart
+│   │   └── quiz_service.dart
+│   └── main.dart
 ├── test/
 ├── pubspec.yaml
 ├── README.md
-└── ...
-```
+
 
 
